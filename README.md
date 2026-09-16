@@ -6,13 +6,11 @@ A web-based Inventory Management System built with PHP, MySQL, HTML, CSS, and Ja
 
 **Inventory Management System** — A full-stack PHP and MySQL application designed to simplify day-to-day inventory operations.
 
-### Live Demo
-
-**Coming soon**
-
 ### Demo Video
 
-**Coming soon**
+[![Inventory Management System Demo](images/inventory.png)](https://drive.google.com/file/d/1vRjVCymCp1ILXllA1WRQviCcLBwLu2SK/view?usp=drive_link)
+
+**Click the image above to watch the full system demonstration.**
 
 ## Features
 
